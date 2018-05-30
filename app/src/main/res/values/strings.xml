@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="no_internet">No internet connection!!</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="original_name">Original name</string>
+    <string name="overview">Overview</string>
+    <string name="retry">RETRY</string>
+    <string name="highest_rated">Highest rated</string>
+    <string name="most_popular">Most popular</string>
+    <string name="favorites">Favorites</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_reviews">This movie has no reviews!</string>
+    <string name="title">Title</string>
+    <string name="no_trailers">This movie has no trailer</string>
+    <string name="watch_trailers">Watch trailers</string>
+    <string name="open_with">Open With</string>
+    <string name="no_favorites">No Favorites</string>
+    <string name="remove_favorite">Remove from favorite</string>
+    <string name="add_favorite">Added to favorite</string>
+    <string name="author">Author</string>
+    <string name="missing_apikey">Missing api key</string>
+    <string name="ok">OK</string>
+    <string name="insert_apikey">Insert your apy key into gradle.properties</string>
+</resources>
